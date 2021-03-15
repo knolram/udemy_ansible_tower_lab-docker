@@ -1,1 +1,1 @@
-# udemy_ansible_tower_lab-docker
+This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
